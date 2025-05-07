@@ -19,14 +19,14 @@ A classic **Tic Tac Toe** game implemented in Python. The game can be played bet
     git clone https://github.com/your-username/python-beginner-projects.git
     ```
 
-2. Navigate to the Tic Tac Toe directory:
+2. Navigate to the python-beginner-projects directory:
     ```bash
-    cd tic-tac-toe
+    cd python-beginner-projects
     ```
 
 3. Run the Python file:
     ```bash
-    python tic_tac_toe.py
+    python <file.py>
     ```
 
 4. Follow the on-screen prompts to make your move.
