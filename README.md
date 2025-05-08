@@ -31,3 +31,19 @@ A classic **Tic Tac Toe** game implemented in Python. The game can be played bet
 
 4. Follow the on-screen prompts to make your move.
 
+___
+
+## 2. Guess the Number – Python Game
+
+This is a simple terminal-based game where the player tries to guess a randomly generated number between 1 and 100. The game gives feedback on each guess — whether it's too high, too low, or correct.
+
+### 📝 Features
+- Random number generation between 1 and 100  
+- Input validation for non-numeric entries  
+- Feedback for each guess  
+- Tracks number of attempts  
+
+### 🚀 How to Run
+```bash
+python guess_the_number.py
+

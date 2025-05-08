@@ -10,16 +10,16 @@ def guess_the_number():
 
     while True:
         try:
-            guess = int(input("Guess the number between 0-100 = "))
+            guess = int(input("Take a guess :  "))
         except Exception:
             print("Please enter a valid number between 0-100.")
             continue
         attempts += 1        
 
         if guess < number:
-            print("Number is too low.. guess again!!!")
+            print(" Too low.. guess again!!!")
         elif guess > number:
-            print("Number is too high.. guess again!!!")
+            print(" Too high.. guess again!!!")
         else:
             print(end='\n')
             print(end='\n')
